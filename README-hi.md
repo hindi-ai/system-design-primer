@@ -26,40 +26,40 @@ System design एक व्यापक विषय है। इंटर्�
 
 यह रेपॉज़िटॉरी संसाधनों का एक संजोजित संग्रह है, जो आपको सिखाएगा की Scalable Systems का कैसे गठन(build) किया जाए।
 
-### Learn from the open source community
+### Open Source समुदाय का सहकारी प्रयास
 
-This is a continually updated, open source project.
+इस open source project को निरंतर रूप से नवीनतम बनाए रखने का प्रयास है।
 
-[Contributions](#contributing) are welcome!
+आपके [योगदान](#contributing) का हमेशा स्वागत है!
 
-### Prep for the system design interview
+### System Design के interview की तैयारी
 
-In addition to coding interviews, system design is a **required component** of the **technical interview process** at many tech companies.
+Coding Interview के अलावा कई कम्पनीया, System Design Interview को भी **टेक्निकल इंटर्व्यू प्रकिर्या का एक महत्वपूर्ण हिस्सा** मानती हैं।
 
-**Practice common system design interview questions** and **compare** your results with **sample solutions**: discussions, code, and diagrams.
+शुरूवात के लिए **System Design के सबसे सामान्य प्रश्नों के अभ्यास से चालू करके**, फिर अपने उत्तर उदाहरण में दिए गए उत्तरों से तुलना कर सकते हैं। आप इनसे सम्बंधित विचार-विमर्श, कोड, एवं रेखा-चित्र भी देख सकते हैं।
 
-Additional topics for interview prep:
+Interview के लिए अतिरिक्त विषय:
 
-* [Study guide](#study-guide)
-* [How to approach a system design interview question](#how-to-approach-a-system-design-interview-question)
-* [System design interview questions, **with solutions**](#system-design-interview-questions-with-solutions)
-* [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
-* [Additional system design interview questions](#additional-system-design-interview-questions)
+* [अद्धयन गाइड](#study-guide)
+* [System Design Interview के सवालों के उत्तर की रणनीति](#how-to-approach-a-system-design-interview-question)
+* [System design interview के सवाल, **जवाब सहित**](#system-design-interview-questions-with-solutions)
+* [Object-oriented design interview के सवाल, **जवाब सहित**](#object-oriented-design-interview-questions-with-solutions)
+* [System Design Interview में पूछे गए अतिरिक्त सवाल](#additional-system-design-interview-questions)
 
-## Anki flashcards
+## Anki Flash cards (अंकी फ़्लैश कार्ड)
 
 <p align="center">
   <img src="images/zdCAkB3.png">
   <br/>
 </p>
 
-The provided [Anki flashcard decks](https://apps.ankiweb.net/) use spaced repetition to help you retain key system design concepts.
+निम्नलिखित [Anki flashcard डेक](https://apps.ankiweb.net/) `spaced repetition` तकनीक के इस्तेमाल से आपको System Design के सिद्धांतो को याद करने में करेंगे।
 
-* [System design deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design.apkg)
-* [System design exercises deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design%20Exercises.apkg)
-* [Object oriented design exercises deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/OO%20Design.apkg)
+* [System design डेक](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design.apkg)
+* [System design अभ्यास डेक](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design%20Exercises.apkg)
+* [Object Oriented design अभ्यास डेक](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/OO%20Design.apkg)
 
-Great for use while on-the-go.
+आपको यह गतिमय करने में बहुत सक्रिय साबित होगा।
 
 ### Coding Resource: Interactive Coding Challenges
 
