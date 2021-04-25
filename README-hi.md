@@ -4,26 +4,27 @@
 
 **नोट**: हिंदी अनुवादान के दौरान बहुत से शब्दवाली यथा रूप अपनायी गयी है। यह सिर्फ़ और सिर्फ़ पाठक को कम्प्यूटर डिज़ाइन की अंग्रेज़ी शब्दवाली से भी अवगत कराने हेतु किया गया है 
 
-# System Design से परिचय 
+# System रूपरेखा (Design) से परिचय 
 
 <p align="center">
   <img src="images/jj3A5N8.png">
   <br/>
 </p>
 
-## Motivation
+## प्रेरणा
 
-> Learn how to design large-scale systems.
+इसकी प्रेरणा के दो कारण हैं 
+> सीखना की हम कैसे किसी बड़े-पैमाने (large-scale) के system की रूपरेखा तैयार कर सकते हैं।
 >
-> Prep for the system design interview.
+> System Design के interview के लिए तैयारी करना
 
-### Learn how to design large-scale systems
+### Large Scale के System की Design को समझना या सीखना
 
-Learning how to design scalable systems will help you become a better engineer.
+Scalable Systems (मापनिय तौर पर परिवर्तन योग्य System; ऐसे सिस्टम जिनको ज़रूरत के अनुसार scale किया जा सके) के Design (रूपरेखा) को सीखना आपको एक बेहतर engineer बना सकता है।
 
-System design is a broad topic.  There is a **vast amount of resources scattered throughout the web** on system design principles.
+System design एक व्यापक विषय है। इंटर्नेट पर System Design के सिद्धांतों (Principles) को सीखने के लिए **बड़ी मात्रा में संसाधन उपलब्ध हैं**।
 
-This repo is an **organized collection** of resources to help you learn how to build systems at scale.
+यह रेपॉज़िटॉरी संसाधनों का एक संजोजित संग्रह है, जो आपको सिखाएगा की Scalable Systems का कैसे गठन(build) किया जाए।
 
 ### Learn from the open source community
 
