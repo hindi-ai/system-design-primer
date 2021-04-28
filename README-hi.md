@@ -61,39 +61,39 @@ Interview के लिए अतिरिक्त विषय:
 
 आपको यह गतिमय करने में बहुत सक्रिय साबित होगा।
 
-### Coding Resource: Interactive Coding Challenges
+### Coding के संसाधन: Coding करें और सीखें 
 
-Looking for resources to help you prep for the [**Coding Interview**](https://github.com/donnemartin/interactive-coding-challenges)?
+आप Coding Interview के लिए [**संसाधन**](https://github.com/donnemartin/interactive-coding-challenges) ढूँढ रहे हैं?
 
 <p align="center">
   <img src="images/b4YtAEN.png">
   <br/>
 </p>
 
-Check out the sister repo [**Interactive Coding Challenges**](https://github.com/donnemartin/interactive-coding-challenges), which contains an additional Anki deck:
+आप एक सरूप repo [**Interactive Coding Challenges**](https://github.com/donnemartin/interactive-coding-challenges), का इस्तेमाल कर सकते हैं। यहाँ आपको coding सीखने हेतु एक अतिरिक्त Anki deck मिल जाएगा:
 
 * [Coding deck](https://github.com/donnemartin/interactive-coding-challenges/tree/master/anki_cards/Coding.apkg)
 
-## Contributing
+## योगदान
 
-> Learn from the community.
+> समुदाय से सीखें।
 
-Feel free to submit pull requests to help:
+मदद करने के लिए निसंकोच pull requests को submit करें। आप ऐसे अपना योगदान दे सकते हैं:
 
-* Fix errors
-* Improve sections
-* Add new sections
-* [Translate](https://github.com/donnemartin/system-design-primer/issues/28)
+* ग़लतियाँ सुधार कर
+* अनुभागों की गुणवत्ता बढ़ाना
+* नए अनुभाग जोड़ना
+* [अनुवाद करना](https://github.com/donnemartin/system-design-primer/issues/28)
 
-Content that needs some polishing is placed [under development](#under-development).
+कुछ लेख जिनको निखारने की आवश्यकता है वह [under development](#under-development) टैग के तहित उल्लेखित हैं।
 
-Review the [Contributing Guidelines](CONTRIBUTING.md).
+[योगदान की गाइडलाइन](CONTRIBUTING.md) की समीक्षा करें।
 
-## Index of system design topics
+## System Design की विषय सूची
 
-> Summaries of various system design topics, including pros and cons.  **Everything is a trade-off**.
+> यहाँ System Design के भिन्न विषयों का सारांश उनके पक्ष-विपक्ष के साथ उल्लेखित है। **सभी फ़ैसले दुविधाजनक होते हैं। (Everything is a trade-off)**.
 >
-> Each section contains links to more in-depth resources.
+> सभी अनुभागों में उन विषयों से सम्बंधित लिंक दी गयी हैं जहां उन विषयों की विस्तार से समीक्षा की गयी है।
 
 <p align="center">
   <img src="images/jrUBAF7.png">
@@ -184,25 +184,25 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
 
 ## Study guide
 
-> Suggested topics to review based on your interview timeline (short, medium, long).
+> इंटर्व्यू की समयसीमा (लघु, मध्यम और दीर्ध) के अनुसार प्रस्तावित विषयों की समीक्षा करें।
 
 ![Imgur](images/OfVllex.png)
 
-**Q: For interviews, do I need to know everything here?**
+**Q: क्या इंटर्व्यू के लिए सब जानना ज़रूरी है?**
 
-**A: No, you don't need to know everything here to prepare for the interview**.
+**A: नहीं, इंटर्व्यू के लिए सब जानना ज़रूरी नहीं है।**
 
-What you are asked in an interview depends on variables such as:
+इंटर्व्यू में आपसे पूछे गए सवाल कुछ निम्नलिखित बिंदुओं पर आश्रित है:
 
-* How much experience you have
-* What your technical background is
-* What positions you are interviewing for
-* Which companies you are interviewing with
-* Luck
+* आपका तजुर्बा कितना है
+* आपका technical background क्या है
+* आप कौन सी पोज़ीशन के लिए इंटर्व्यू दे रहे हैं
+* आप किस कम्पनी को इंटर्व्यू दे रहे हैं 
+* क़िस्मत 
 
-More experienced candidates are generally expected to know more about system design.  Architects or team leads might be expected to know more than individual contributors.  Top tech companies are likely to have one or more design interview rounds.
+आप जितने अनुभवी होंगे आपसे System Design की अपेक्षा उतनी ज़्यादा होगी।  Architects या team leads को individual contributors से भी ज़्यादा अपेक्षा रखी जाएगी। कुछ बड़ी कम्पनी अधिकतर एक या एक से ज़्यादा design interview के rounds लेती हैं।
 
-Start broad and go deeper in a few areas.  It helps to know a little about various key system design topics.  Adjust the following guide based on your timeline, experience, what positions you are interviewing for, and which companies you are interviewing with.
+विस्तार से पढ़ना चालू करें और कुछ भागों का गहराई से मंथन करें। System Design के विभिन्न महत्वपूर्ण विषयों के बारे में जानकारी आपकी हमेशा मदद करेगी। उल्लेखित गाइड आप अपने तजुर्बे, समयसीमा, रिक्त नौकरी और सम्बंधित कम्पनी के अनुसार इस्तेमाल में लाएँ।
 
 * **Short timeline** - Aim for **breadth** with system design topics.  Practice by solving **some** interview questions.
 * **Medium timeline** - Aim for **breadth** and **some depth** with system design topics.  Practice by solving **many** interview questions.
