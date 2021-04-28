@@ -204,19 +204,19 @@ Interview के लिए अतिरिक्त विषय:
 
 विस्तार से पढ़ना चालू करें और कुछ भागों का गहराई से मंथन करें। System Design के विभिन्न महत्वपूर्ण विषयों के बारे में जानकारी आपकी हमेशा मदद करेगी। उल्लेखित गाइड आप अपने तजुर्बे, समयसीमा, रिक्त नौकरी और सम्बंधित कम्पनी के अनुसार इस्तेमाल में लाएँ।
 
-* **Short timeline** - Aim for **breadth** with system design topics.  Practice by solving **some** interview questions.
-* **Medium timeline** - Aim for **breadth** and **some depth** with system design topics.  Practice by solving **many** interview questions.
-* **Long timeline** - Aim for **breadth** and **more depth** with system design topics.  Practice by solving **most** interview questions.
+* **लघु समयसीमा** - System Design के विषयों को **विस्तार** से पढ़ने का लक्ष्य बनाए। इंटर्व्यू के **कुछ** सवालों का हल निकालने का अभ्यास करें।
+* **मध्यम समयसीमा** - System Design के विषयों को **विस्तार** से पढ़ने का लक्ष्य बनाए और कुछ का **गहराई** से अध्ययन करें। इंटर्व्यू के **बहुत** सवालों का हल निकालने का अभ्यास करें।
+* **दीर्ध समयसीमा** - System Design के विषयों को **विस्तार** से पढ़ने का लक्ष्य बनाए और कुछ का **बहुत गहराई** से अध्ययन करें। इंटर्व्यू के **ज़्यादा से ज़्यादा** सवालों का हल निकालने का अभ्यास करें।
 
-| | Short | Medium | Long |
+| | लघु | मध्यम | दीर्ध |
 |---|---|---|---|
-| Read through the [System design topics](#index-of-system-design-topics) to get a broad understanding of how systems work | :+1: | :+1: | :+1: |
-| Read through a few articles in the [Company engineering blogs](#company-engineering-blogs) for the companies you are interviewing with | :+1: | :+1: | :+1: |
-| Read through a few [Real world architectures](#real-world-architectures) | :+1: | :+1: | :+1: |
-| Review [How to approach a system design interview question](#how-to-approach-a-system-design-interview-question) | :+1: | :+1: | :+1: |
-| Work through [System design interview questions with solutions](#system-design-interview-questions-with-solutions) | Some | Many | Most |
-| Work through [Object-oriented design interview questions with solutions](#object-oriented-design-interview-questions-with-solutions) | Some | Many | Most |
-| Review [Additional system design interview questions](#additional-system-design-interview-questions) | Some | Many | Most |
+| [System design के विषयों](#index-of-system-design-topics) की एक व्यापक समझ लें, ताकि system की वर्किंग के बारे में समझ बढ़े | :+1: | :+1: | :+1: |
+| इंटर्व्यू के लिए चयनित [कम्पनी के Engineering Blogs](#company-engineering-blogs) पर उल्लेखित लेखों की समीक्षा करें | :+1: | :+1: | :+1: |
+| कुछ [Real World Architectures](#real-world-architectures) (वास्तविक एवं प्रायोगिक Architectures) का अध्ययन करें| :+1: | :+1: | :+1: |
+|[System Design के इंटर्व्यू के सवालों के हल के लिए क्या दृष्टिकोण होना चाहिए](#how-to-approach-a-system-design-interview-question) इस पर अध्ययन करें| :+1: | :+1: | :+1: |
+|[System Design इंटर्व्यू के सवाल एवं उनके हलों](#system-design-interview-questions-with-solutions) का विश्लेषण | थोड़ा | बहुत | अधिकांश |
+|[Object-Oriented Design इंटर्व्यू के सवाल एवं उनके हलों](#object-oriented-design-interview-questions-with-solutions) का विश्लेषण| थोड़ा | बहुत | अधिकांश |
+|[System Design इंटर्व्यू के _अतिरिक्त_ सवाल एवं उनके हलों](#additional-system-design-interview-questions) का विश्लेषण| थोड़ा | बहुत | अधिकांश |
 
 ## How to approach a system design interview question
 
