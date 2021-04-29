@@ -213,38 +213,47 @@ Interview के लिए अतिरिक्त विषय:
 | [System design के विषयों](#index-of-system-design-topics) की एक व्यापक समझ लें, ताकि system की वर्किंग के बारे में समझ बढ़े | :+1: | :+1: | :+1: |
 | इंटर्व्यू के लिए चयनित [कम्पनी के Engineering Blogs](#company-engineering-blogs) पर उल्लेखित लेखों की समीक्षा करें | :+1: | :+1: | :+1: |
 | कुछ [Real World Architectures](#real-world-architectures) (वास्तविक एवं प्रायोगिक Architectures) का अध्ययन करें| :+1: | :+1: | :+1: |
-|[System Design के इंटर्व्यू के सवालों के हल के लिए क्या दृष्टिकोण होना चाहिए](#how-to-approach-a-system-design-interview-question) इस पर अध्ययन करें| :+1: | :+1: | :+1: |
+|[System Design के इंटर्व्यू के सवालों के हल के लिए क्या कार्यनीति होना चाहिए](#इंटर्व्यू-के-सवालों-के-लिए-कार्यनीति) इस पर अध्ययन करें| :+1: | :+1: | :+1: |
 |[System Design इंटर्व्यू के सवाल एवं उनके हलों](#system-design-interview-questions-with-solutions) का विश्लेषण | थोड़ा | बहुत | अधिकांश |
 |[Object-Oriented Design इंटर्व्यू के सवाल एवं उनके हलों](#object-oriented-design-interview-questions-with-solutions) का विश्लेषण| थोड़ा | बहुत | अधिकांश |
 |[System Design इंटर्व्यू के _अतिरिक्त_ सवाल एवं उनके हलों](#additional-system-design-interview-questions) का विश्लेषण| थोड़ा | बहुत | अधिकांश |
 
-## How to approach a system design interview question
+## इंटर्व्यू के सवालों के लिए कार्यनीति
 
-> How to tackle a system design interview question.
+> System Design इंटर्व्यू का हल कैसे निकलें?
 
-The system design interview is an **open-ended conversation**.  You are expected to lead it.
+System Design इंटर्व्यू एक **अंतहीन समवाद** है। आपसे इस चर्चा को नेतृत्व करने की उम्मीद करी जाती है।
 
-You can use the following steps to guide the discussion.  To help solidify this process, work through the [System design interview questions with solutions](#system-design-interview-questions-with-solutions) section using the following steps.
+चर्चा के नेतृत्व के लिए आप निम्न चरणों का इस्तेमाल कर सकते हैं. इस प्रक्रिया को मज़बूत करने के लिए आप [System design interview questions with solutions](#system-design-interview-questions-with-solutions) अनुभाग में दिए गए बिंदुओं पर अमल कर सकते हैं।
 
 ### Step 1: Outline use cases, constraints, and assumptions
+### चरण 1: उपयोग, प्रतिबंधों, और अनुमानों की रूपरेखा बनायें
+> #TODO: Change Headline and related links
 
-Gather requirements and scope the problem.  Ask questions to clarify use cases and constraints.  Discuss assumptions.
+> **उपयोग(Use case), प्रतिबंधों(Constraints), और अनुमानों(Assumptions)** की रूपरेखा बनाना सबसे पहली आवश्यकता है।
 
-* Who is going to use it?
-* How are they going to use it?
-* How many users are there?
-* What does the system do?
-* What are the inputs and outputs of the system?
-* How much data do we expect to handle?
-* How many requests per second do we expect?
-* What is the expected read to write ratio?
+समस्या की व्यापकता एवं आवश्यकताओं की जानकारी एकत्रित करे। उपयोग और प्रतिबंधों की स्पष्टता के लिए प्रश्न पूछें। अनुमानों के बारे में चर्चा अवश्य करें।
+
+* इसे कौन इस्तेमाल करेगा?
+* वे इसका उपयोग कैसे करने जा रहे हैं?
+* कितने उपयोगकर्ता हैं?
+* सिस्टम क्या करता है?
+* सिस्टम के इनपुट और आउटपुट क्या हैं?
+* हम कितना डेटा संभालने की उम्मीद करते हैं?
+* हम प्रति सेकंड कितने Request की अपेक्षा करते हैं?
+* Read और Write के बीच अपेक्षित अनुपात (Expected Ratio) क्या है?
 
 ### Step 2: Create a high level design
+### चरण 2: उच्च स्तरीय डिजाइन बनायें
 
-Outline a high level design with all important components.
+> #TODO: Change Headline and related links
 
-* Sketch the main components and connections
-* Justify your ideas
+> अपने प्रस्तावित सिस्टम का उच्च स्तरीय डिजाइन (High Level Design) बनायें।
+
+महत्वपूर्ण `components` के साथ अपने उच्च स्तरीय डिजाइन (High Level Design) की रूपरेखा तैयार करें।
+
+* रेखा-चित्र में ज़रूरी `components` और उनके बीच `connections` का उल्लेख करे।
+* अपने विचारों का पक्ष-समर्थन करें।
 
 ### Step 3: Design core components
 
